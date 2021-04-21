@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/Users/mintfeng/workspace/gl/gl/build",
+  "command": "/usr/bin/clang  -I/Users/mintfeng/workspace/gl/gl/includes -I/usr/local/include -I/Users/mintfeng/workspace/gl/gl  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk   -o CMakeFiles/HelloGL.dir/glad.c.o   -c /Users/mintfeng/workspace/gl/gl/glad.c",
+  "file": "/Users/mintfeng/workspace/gl/gl/glad.c"
+},
+{
+  "directory": "/Users/mintfeng/workspace/gl/gl/build",
+  "command": "/usr/bin/clang++   -I/Users/mintfeng/workspace/gl/gl/includes -I/usr/local/include -I/Users/mintfeng/workspace/gl/gl  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk   -std=gnu++11 -o CMakeFiles/HelloGL.dir/Shader.cpp.o -c /Users/mintfeng/workspace/gl/gl/Shader.cpp",
+  "file": "/Users/mintfeng/workspace/gl/gl/Shader.cpp"
+},
+{
+  "directory": "/Users/mintfeng/workspace/gl/gl/build",
+  "command": "/usr/bin/clang++   -I/Users/mintfeng/workspace/gl/gl/includes -I/usr/local/include -I/Users/mintfeng/workspace/gl/gl  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk   -std=gnu++11 -o CMakeFiles/HelloGL.dir/mainman.cpp.o -c /Users/mintfeng/workspace/gl/gl/mainman.cpp",
+  "file": "/Users/mintfeng/workspace/gl/gl/mainman.cpp"
+}
+]
